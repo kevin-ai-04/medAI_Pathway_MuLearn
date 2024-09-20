@@ -2,6 +2,9 @@
 
 MedAI accepts the name of a medicine and fetches data on that medicine from 1mg.com, a reliable source of information on common prescriptions. 1mg.com is a well-known healthcare platform that provides comprehensive and accurate information on medicines, making it a trusted source for medical data. Powered by the Pathways framework, MedAI gathers content in real-time and then uses the Gemini AI model for chat completion.
 
+## Why Real-Time Processing?
+MedAI’s use of real-time processing ensures that the information fetched is the latest available, which is crucial when dealing with healthcare data. Medicines and prescriptions can change frequently with new research, availability, or updates to drug information. By leveraging Pathway’s real-time indexing and processing capabilities, MedAI can always provide users with the most current data, making it a valuable tool for healthcare professionals and patients alike. This real-time feature also allows for immediate updates when any new medical information becomes available on external platforms like 1mg.com.
+
 ## Demo
 
 > [Video Demo](https://www.youtube.com/watch?v=WMe5C4dQzeU)
