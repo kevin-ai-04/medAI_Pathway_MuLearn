@@ -5,10 +5,6 @@ MedAI accepts the name of a medicine and fetches data on that medicine from 1mg.
 ## Why Real-Time Processing?
 MedAI’s use of real-time processing ensures that the information fetched is the latest available, which is crucial when dealing with healthcare data. Medicines and prescriptions can change frequently with new research, availability, or updates to drug information. By leveraging Pathway’s real-time indexing and processing capabilities, MedAI can always provide users with the most current data, making it a valuable tool for healthcare professionals and patients alike. This real-time feature also allows for immediate updates when any new medical information becomes available on external platforms like 1mg.com.
 
-## Demo
-
-> [Video Demo](https://www.youtube.com/watch?v=WMe5C4dQzeU)
-
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/0d375a2e-3238-4ad4-a505-922c534d887a)
 ![image](https://github.com/user-attachments/assets/7b5d89fe-3458-4540-8f7a-20106996e09f)
